@@ -1,3 +1,4 @@
-# Liz Development
+# LIZ Development
 ---
 ## About us
+Coming soon...
